@@ -1,6 +1,6 @@
 Portfolio using SASS
 
-Desktop View -
+Large Devices -
 ![screencapture-127-0-0-1-5500-index-html-2024-03-25-14_28_43](https://github.com/priyanshishah20/Portfolio-Using-SASS/assets/92794107/44904533-7b41-456e-8e74-9c87b5825a02)
 
 Small Devices - 
